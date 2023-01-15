@@ -134,6 +134,7 @@ debug.sdm.support_writeback=0
 vendor.display.idle_time=32767
 vendor.display.use_smooth_motion=1
 ro.config.avoid_gfx_accel=true
+debug.renderengine.backend=threaded
 
 # DRM
 drm.service.enabled=true
