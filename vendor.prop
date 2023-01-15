@@ -136,6 +136,8 @@ vendor.display.idle_time=32767
 vendor.display.use_smooth_motion=1
 ro.config.avoid_gfx_accel=true
 debug.renderengine.backend=threaded
+debug.sf.disable_backpressure=0
+debug.cpurend.vsync=true
 
 # DRM
 drm.service.enabled=true
