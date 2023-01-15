@@ -203,6 +203,10 @@ ro.vendor.sensors.mot_detect=true
 ro.vendor.sensors.pmd=true
 ro.vendor.sensors.sta_detect=true
 
+# Smoothens UI
+persist.service.lgospd.enable=0
+persist.service.pcsync.enable=0
+
 # SurfaceFlinger
 debug.sf.use_phase_offsets_as_durations=1
 debug.sf.early.sf.duration=16600000
