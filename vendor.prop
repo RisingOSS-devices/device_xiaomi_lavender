@@ -153,6 +153,9 @@ ro.netflix.bsp_rev=Q660-13149-1
 # Perf
 ro.vendor.extension_library=libqti-perfd-client.so
 
+# Perfetto
+persist.device_config.runtime_native_boot.iorap_readahead_enable=true
+
 # RAM
 ro.config.fha_enable=true
 ro.sys.fw.bg_apps_limit=32
