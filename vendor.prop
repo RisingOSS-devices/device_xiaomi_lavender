@@ -1,3 +1,6 @@
+# APEX
+ro.apex.updatable=false
+
 # App launch prefetching (IORapd)
 ro.iorapd.enable=false
 iorapd.perfetto.enable=false
