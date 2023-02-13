@@ -13,7 +13,6 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 RICE_DEVICE := Redmi Note 7
 RICE_CHIPSET := sdm660
 RICE_MAINTAINER := FPSensor
-SUSHI_BOOTANIMATION := 1080
 TARGET_HAS_UDFPS := false
 TARGET_ENABLE_BLUR := true
 TARGET_SUPPORTS_QUICK_TAP := true
